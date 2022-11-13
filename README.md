@@ -10,7 +10,7 @@ Or you can install a proper OpenJDK package from your OS vendors.
 In macOS:
 ```
 $ brew tap AdoptOpenJDK/openjdk
-$ brew cask install adoptopenjdk11
+$ brew install --cask adoptopenjdk11
 ```
 
 In Linux (Ubuntu 20.04):
